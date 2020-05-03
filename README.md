@@ -1,6 +1,6 @@
 # Resources to learn AWS Amplify
 
-This repo is about a collection of good resources that I found to learn more about AWS Amplify, since the official docs never goes deep on details for begginers (official docs are like: "oh, you have used AWS services for while? Already know a lot? Here are some tips to learn Amplify"), any way, official docs can't help much but the contents listed here can.
+This repo is about a collection of good resources that I found to learn more about AWS Amplify, since the official docs never goes deep on details for begginers (official docs are like: "oh, you have used AWS services for while? Already know a lot? Here are some tips to learn Amplify"), any way, official docs can't help much but I hope the contents listed here can.
 
 ## Get start
 
