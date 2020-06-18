@@ -12,7 +12,7 @@ This repo is about a collection of good resources that I found to learn more abo
 
 [withAuthentication HOC - Check all the config options here:](https://docs.amplify.aws/ui-legacy/auth/authenticator/q/framework/react)
 
-[Sign up config params - anothor lost doc with signUp config details](https://aws-amplify.github.io/docs/js/react#signup-configuration)
+[Sign up config params - another lost doc with signUp config details](https://aws-amplify.github.io/docs/js/react#signup-configuration)
 
 ## Authorization
 
