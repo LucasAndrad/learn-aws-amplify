@@ -14,4 +14,6 @@ This repo is about a collection of good resources that I found to learn more abo
 
 [Sign up config params - anothor lost doc with signUp config details](https://aws-amplify.github.io/docs/js/react#signup-configuration)
 
-[GraphQL API Security with AWS AppSync and Amplify](https://aws.amazon.com/pt/blogs/mobile/graphql-security-appsync-amplify/): will teach you how to use @auth for security requests on Amplify GraphQL API & AppSync.
+## Authorization
+
+[GraphQL API Security with AWS AppSync and Amplify](https://aws.amazon.com/blogs/mobile/graphql-security-appsync-amplify/): will teach you how to use @auth for security requests on Amplify GraphQL API & AppSync.
